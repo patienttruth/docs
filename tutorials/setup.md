@@ -108,7 +108,7 @@ Please see the [examples](/examples/examples.md) section for some ideas of how y
 ## Helpful tools
 
 There are some great tools that can interact with Grocy that might be useful for you. Here is a short list that is most likely complete:
-- [PantryParty](https://pantryparty.app) - iOS and Android app.
+~~- [PantryParty](https://pantryparty.app) - iOS and Android app.~~ Link dead as of 2025-02-02
 - [Barcode Buddy](https://barcodebuddy-documentation.readthedocs.io/en/latest/) - Barcode scanner tool. To make using physical scanner more efficient.
 - [Home Assistant](https://www.home-assistant.io) - Home automation project with a Grocy Add-on and custom component for integration.
 - [Recipe Buddy](https://github.com/georgegebbett/recipe-buddy) - Import recipes from web sites.
